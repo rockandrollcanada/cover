@@ -5,7 +5,7 @@ layout: page
 ## Jekyll Video
 Resize the window to sew what!
 
-<div class="container"> 
-  <iframe class="vid-container" src="https://www.youtube.com/embed/iIBkOWY5aAA"></iframe>
+<div class="vid-container"> 
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/iIBkOWY5aAA"></iframe>
 </div>
 
